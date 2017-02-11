@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="no_network">No network connection</string>
+    <string name="no_network_message">Unable to connect to the network. Check your network settings and try again.</string>
+    <string name="retry">Retry</string>
+
+    <string name="total_msg_filler">Total: %d</string>
+    <string name="font_fontawesome">fonts/fontawesome-webfont.ttf</string>
+    <string name="app_name">Chat Test</string>
+</resources>
